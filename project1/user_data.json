@@ -1,0 +1,24 @@
+{
+    "1434106832": {
+        "expenses": [
+            {
+                "category": "\u0418\u0433\u0440\u0430",
+                "amount": 70.0,
+                "date": "2024-12-12"
+            },
+            {
+                "category": "\u041c\u043e\u0440\u043a\u043e\u0432\u043a\u0430",
+                "amount": 100.0,
+                "date": "2024-12-12"
+            },
+            {
+                "category": "\u041c\u043e\u043b\u043e\u043a\u043e",
+                "amount": 67.0,
+                "date": "2024-12-12"
+            }
+        ],
+        "budget": 50.0,
+        "state": null,
+        "daily_limit": 50.0
+    }
+}
